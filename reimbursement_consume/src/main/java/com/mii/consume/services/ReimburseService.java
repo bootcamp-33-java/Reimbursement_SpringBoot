@@ -31,4 +31,8 @@ public class ReimburseService {
         }
         return reimburse;
     }
+
+    public Optional<Reimburse> findById(String id){
+        return reimburseRepository.findById(id);
+    }
 }
