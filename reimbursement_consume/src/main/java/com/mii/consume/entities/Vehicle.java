@@ -49,5 +49,8 @@ public class Vehicle implements Serializable {
     @ManyToOne(optional = false, fetch = FetchType.LAZY)
     private Employee employee;
 
+    
+    
 
+    
 }
