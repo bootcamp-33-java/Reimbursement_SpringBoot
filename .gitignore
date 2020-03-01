@@ -1,4 +1,8 @@
 
-reimbursement_consume/.idea/
+reimbursement_consume/target/test-classes/com/mii/consume/ReimbursementConsumeApplicationTests.class
+
+reimbursement_consume/target/surefire-reports/TEST-com.mii.consume.ReimbursementConsumeApplicationTests.xml
 
 reimbursement_consume/target/
+
+reimbursement_consume/.idea/
